@@ -18,7 +18,7 @@
       currentFocus: "Native Android development using awesome Kotlin/Java and android architecture components",
     };
 
-
+![](https://komarev.com/ghpvc/?username=harshaltilay&color=orange)
 
 
 
