@@ -10,10 +10,10 @@
           languages: ["Kotlin", "C#", "Java", "C++ JNI (Working knowledge)"],        
           api: ["REST", "JSON", "GraphQL", "XML"],        
           web: ["HTMl","Javascript","PHP"],
-          databases: ["mongo", "MySql", "sqlite"],        
+          databases: ["Firebase/Firestore", "MySql", "sqlite"],        
           appServer: ["SmartFox Server","Photon Cloud/Server","Custom Socket Servers","Amazon Image Rekognition API"],
-          also: ["Git"," Jira"],
-          architecture: ["CLEAN Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"]
+          architecture: ["CLEAN Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
+          also: ["Git"," Jira"]
         },    
       currentFocus: "Native Android development using awesome Kotlin/Java and android architecture components",
     };
